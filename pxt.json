@@ -1,0 +1,21 @@
+{
+    "name": "crashy-bird",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-kitronik-game-controller": "github:kitronikltd/pxt-kitronik-game-controller#v0.0.2"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
